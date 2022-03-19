@@ -1,2 +1,2 @@
 # selenium_stepik
-[Homework form Stepik Selenium+Pytest course](https://stepik.org/course/575/info)
+[Homework from Stepik Selenium+Pytest course](https://stepik.org/course/575/info)
